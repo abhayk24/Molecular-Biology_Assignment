@@ -1,0 +1,4 @@
+,Accuracy,Precision,Recall,F1,MCC,AUC
+LogReg (6-mer),0.602,0.601,0.607,0.604,0.203,0.655
+RandomForest (6-mer),0.707,0.68,0.782,0.727,0.418,0.774
+CNN (one-hot),0.906,0.911,0.9,0.905,0.812,0.969
